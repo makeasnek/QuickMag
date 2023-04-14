@@ -15,4 +15,3 @@ tngrid,Tn-grid,cpu,http://gene.disi.unitn.it/test/stats/host.gz
 numf,Numberfields@home,cpu,http://numberfields.asu.edu/NumberFields/stats/host.gz
 nfs,Nfs@home,cpu,https://escatter11.fullerton.edu/nfs/stats/host.gz
 asteroids,Asteroids@home,gpu,http://asteroidsathome.net/boinc/stats/host.gz
-minecraft,Minecraft@home,gpu,https://minecraftathome.com/minecrafthome/stats/host.gz
